@@ -1,3 +1,3 @@
 FROM alpine:latest
 
-CMD ["echo", " WELCOME BUTOI BOGDAN"]
+CMD ["echo", " WELCOME TESTING 12.04.2025"]
