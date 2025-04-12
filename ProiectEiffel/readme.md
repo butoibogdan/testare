@@ -25,20 +25,25 @@ Eiffel poate fi rulat printr-un client specializat in acest sens sau direct din 
 **Eiffel rulat prin interfata grafica EiffelStudio**
 
 1. **Create Project**
+
 ![Picture1.png](Picture1.png)
+
 Utilizatorii pot specifica numele si locatia proiectului, precum si sa selecteze configurarea dorita pentru proiectul lor.
 
 Se selecteaza tipul **Basic Application**.
 
 ![Picture2.png](Picture2.png)
+
 Sunt definite detaliile proiectului, inclusiv **calea directorului**.
 
 ![Picture3.png](Picture3.png)
+
 Se va institui **precompilarea librariilor**, ce reprezinta crearea unei biblioteci de cod pre-compilata care poate fi inclusa in alte proiecte pentru a reduce timpul de compilare si a imparti codul intre mai multe proiecte Eiffel.
 
 1. **Rulare cod**
 
 ![Picture5.png](Picture5.png)
+
 Se va **compila** si **rula** codul sursa.
 
 ![Picture6.png](Picture6.png)
@@ -92,6 +97,7 @@ Se defineste numele testului.
 Testul creat este rulat in zona panoului **AutoTest** \> **Run**.
 
 ![Picture16.png](Picture16.png)
+
 Testul a fost alterat si rulat. Rezultatul este **PASSED**.
 
 1. **Metrics**
@@ -99,7 +105,9 @@ Testul a fost alterat si rulat. Rezultatul este **PASSED**.
 Metrics reprezinta informatiile numerice colectate din codul sursa al unui program, cum ar fi numarul de linii de cod, numarul de clase, numarul de metode, complexitatea ciclomatica, numarul de erori si avertismente, acoperirea testelor si altele. Aceste informatii pot fi utilizate pentru a evalua calitatea si performanta codului, precum si pentru a identifica zonele care necesita imbunatatiri sau optimizari.
 
 ![Picture17.png](Picture17.png)
+
 ![Picture18.png](Picture18.png)
+
 ![Picture19.png](Picture19.png)
 
 Se afiseaza rezultatul rularii metricii **LOC**.
@@ -109,6 +117,7 @@ Se afiseaza rezultatul rularii metricii **LOC**.
 Diagramele sunt reprezentarea grafica a relatiilor si dependentelor intre obiecte intr-un sistem software, care poate fi utilizata pentru a vizualiza si a intelege mai bine structura sistemului. Exista mai multe tipuri de diagrame, cum ar fi diagramele de clasa, diagramele de pachete, diagramele de secventa, diagramele de stari si altele.
 
 ![Picture20.png](Picture20.png)
+
 Afisare diagrama cu **stramosi** si **mostenitori**:
 
 ![Picture21.png](Picture21.png)
